@@ -8,7 +8,7 @@ Checkout the github/workflow and this [article](https://medium.com/@nasser258/ja
 
 ## Architecture
 
-![Alt text](arch.jpeg)
+![Alt text](arch.png)
 
 
 ## Features
