@@ -11,7 +11,7 @@ The point of this project is to show problem solving, system design, DevOps, and
 
 ## Features
 
-**User-Friendly Web Interface**: Developed with React, allowing users view, create, delete, real estate listings.
+**User-Friendly Web Interface**: allowing users to view, create, delete, real estate listings.
 
 ## Technologies Used
 
