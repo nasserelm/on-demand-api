@@ -4,6 +4,8 @@ An application that, upon user request, automatically containerizes itself and d
 
 The point of this project is to show problem solving, system design, DevOps, and AWS cloud architecture skills, NOT what the website offers.
 
+Checkout the github/workflow and this [article](https://medium.com/@nasser258/java-spring-boot-mysql-react-aws-full-stack-project-from-scratch-to-production-9b703563ec23) to see how I implemented this step-by-step
+
 ## Architecture
 
 ![Alt text](arch.jpeg)
