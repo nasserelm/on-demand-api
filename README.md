@@ -25,7 +25,7 @@ Checkout the github/workflow and this [article](https://medium.com/@nasser258/ja
 
 ## Usage
 
-1. Open the web application at [awsfileauto.netlify.app](https://awsfileauto.netlify.app/) in your browser. Note: the website may not be functional at the time you use it due to AWS hosting costs, check out step-by-step guide on how I built this [here](https://medium.com/@nasser258/java-spring-boot-mysql-react-aws-full-stack-project-from-scratch-to-production-9b703563ec23)
+1. Open the web application at [realestate.app](https://realestate258.netlify.app/) in your browser. Note: the website may not be functional at the time you use it due to AWS hosting costs, check out step-by-step guide on how I built this [here](https://medium.com/@nasser258/java-spring-boot-mysql-react-aws-full-stack-project-from-scratch-to-production-9b703563ec23)
 2. On the webiste, click -> start EC2 instance
 3. This will trigger a pipeline that will download docker containers of frontend, backend, and db to an EC2 instance in AWS
 4. Then, using docker compose, start the application for 10 minutes before shutting down again. As a result, the website will become functional for 10 minutes for all users.
