@@ -13,7 +13,7 @@ Checkout the github/workflow and this [article](https://medium.com/@nasser258/ja
 
 ## Features
 
-**User-Friendly Web Interface**: allowing users to view, create, delete, real estate listings.
+**User-Friendly Web Interface**: allowing users to view, create, and delete real estate listings.
 
 ## Technologies Used
 
